@@ -1,6 +1,6 @@
 # Sales Dashboard using PowerBI
        
-### I have created interactive Sales dashboard using Microsoft Power BI. Below are the visuals I have added in dashboard and how they help in analysis.
+### I have created interactive Sales dashboard using Microsoft Power BI. Below are the details about the visuals added in dashboard and how they help in analysis.
 
 •	We can see how these (total sales, total profit, and total customers) metrics have changed over time and identify any trends or patterns.
 
